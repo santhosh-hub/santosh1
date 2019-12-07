@@ -155,7 +155,7 @@
 	margin-top: 30px;
 	color: #ccc;
 }
-.services .col-md-3:hover
+.services .col-sm-3:hover
 {
 	background: #007bff;
 	cursor: pointer;
